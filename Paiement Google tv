@@ -1,1 +1,80 @@
-https://ton-utilisateur.github.io/google-tv/
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Google TV - Plateforme Officielle</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: linear-gradient(135deg, #1a73e8, #4285f4);
+      color: white;
+      text-align: center;
+    }
+    header {
+      padding: 40px 20px;
+    }
+    header h1 {
+      font-size: 2.5em;
+      margin: 0;
+    }
+    header p {
+      font-size: 1.2em;
+      margin: 10px 0 0;
+    }
+    section {
+      padding: 40px 20px;
+      background: white;
+      color: #333;
+      border-radius: 20px;
+      margin: 20px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    }
+    h2 {
+      color: #1a73e8;
+    }
+    footer {
+      background: #0d47a1;
+      padding: 20px;
+      font-size: 0.9em;
+      margin-top: 40px;
+    }
+    a.button {
+      display: inline-block;
+      padding: 12px 24px;
+      margin-top: 20px;
+      background: #1a73e8;
+      color: white;
+      text-decoration: none;
+      border-radius: 25px;
+      transition: 0.3s;
+    }
+    a.button:hover {
+      background: #0c47a1;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>GOOGLE TV</h1>
+    <p>Inscription sur Google TV - Gagnez en regardant des vidéos</p>
+  </header>
+
+  <section>
+    <h2>À propos</h2>
+    <p>
+      Cher client, Google TV est une plate-forme qui permet de gagner de l'argent en regardant des vidéos.
+      Vous pouvez gagner jusqu'à <strong>850 millions par an</strong> si vous vous intéressez bien au protocole.
+    </p>
+    <a href="mailto:gerardlourpindez54@gmail.com" class="button">Nous contacter</a>
+  </section>
+
+  <footer>
+    © 2025 Google TV - Tous droits réservés <br>
+    Contact : <a href="mailto:gerardlourpindez54@gmail.com" style="color:white;">gerardlourpindez54@gmail.com</a>
+  </footer>
+
+</body>
+</html>
